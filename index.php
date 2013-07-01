@@ -5,6 +5,10 @@ class Hello
 	{
 		print 'Hello World';
 	}
+	public function sayHi($name)
+	{
+		print 'Hi, '.$name;
+	}
 }
 
 $hello = new Hello;
