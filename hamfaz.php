@@ -7,5 +7,5 @@ while($i>100)
 	echo $i;
 	$i++;
 }
-
+echo"done";
 ?>
